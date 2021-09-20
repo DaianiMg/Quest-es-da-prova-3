@@ -145,7 +145,7 @@ namespace ProxaEx01
 
         }
 
-        private static void FinalizarPedido(Pedido pedido) //usei só para teste, se está avançando certinho
+        private static void FinalizarPedido(Pedido pedido) 
         {
 
             pedido.MostrarPedido();
