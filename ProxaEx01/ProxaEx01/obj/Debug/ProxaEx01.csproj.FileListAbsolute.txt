@@ -1,0 +1,10 @@
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\bin\Debug\ProxaEx01.exe.config
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\bin\Debug\ProxaEx01.exe
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\bin\Debug\ProxaEx01.pdb
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\obj\Debug\ProxaEx01.csprojAssemblyReference.cache
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\obj\Debug\ProxaEx01.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\obj\Debug\ProxaEx01.exe
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\obj\Debug\ProxaEx01.pdb
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\bin\Debug\Newtonsoft.Json.dll
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\bin\Debug\Newtonsoft.Json.xml
+D:\Usuario\Desktop\COMPASSO\ProxaEx01\ProxaEx01\obj\Debug\ProxaEx01.csproj.CopyComplete

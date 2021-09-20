@@ -1,0 +1,15 @@
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.csprojAssemblyReference.cache
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.AssemblyInfo.cs
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.exe
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.deps.json
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.runtimeconfig.json
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.runtimeconfig.dev.json
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.dll
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Prova02.pdb
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.csproj.CopyComplete
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.dll
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.pdb
+D:\Usuario\Desktop\COMPASSO\Prova02ComCore\Prova02\Prova02\obj\Debug\netcoreapp3.1\Prova02.genruntimeconfig.cache
